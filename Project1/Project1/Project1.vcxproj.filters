@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연결관리.cpp">
+    <ClCompile Include="원형큐바보.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

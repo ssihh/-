@@ -96,8 +96,7 @@ int main() {
 	q = createQ();
 
 	item.id = 123;
-	strcpy(item.name, "Hong");
+	strcpy_s(item.name, "Hong");
 	item.grade = 'A';
 	enqueue(q, item);
-
 }
